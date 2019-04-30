@@ -22,6 +22,15 @@ const Home = ({ id, go, fetchedUser }) => (
 				</Button>
 			</Div>
 		</Group>
+
+				<Group title="СООБЩЕНИЕ В БЕСЕДУ">
+			<Div>
+				<Button size="xl" level="2" onClick={go} data-to="persik">
+					Show me the Natasha, please
+				</Button>
+			</Div>
+		</Group>
+
 	</Panel>
 );
 
