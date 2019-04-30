@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "701bf7868f38c0bd59dd",
+    "revision": "e62a909d91c5799d887b",
     "url": "/wendypendy/static/css/main.d895fae4.chunk.css"
   },
   {
-    "revision": "701bf7868f38c0bd59dd",
-    "url": "/wendypendy/static/js/main.701bf786.chunk.js"
+    "revision": "e62a909d91c5799d887b",
+    "url": "/wendypendy/static/js/main.e62a909d.chunk.js"
   },
   {
     "revision": "e515a3bfe173a8fe41d3",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/wendypendy/static/media/persik.6d2522bd.png"
   },
   {
-    "revision": "2e34c1193b106bea8333cd10ac4b9a3b",
+    "revision": "dade51403ea0ecf335e09f14fefee720",
     "url": "/wendypendy/index.html"
   }
 ];
