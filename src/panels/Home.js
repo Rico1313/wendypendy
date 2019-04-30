@@ -22,14 +22,6 @@ const Home = ({ id, go, fetchedUser }) => (
 				</Button>
 			</Div>
 		</Group>
-
-                    <Group>
-                        <FormLayout>
-                            <Input type="text" top="Your text"  value={this.state.text} onChange={this.changeText}/>
-                            <CellButton level="danger" onClick={this.clearText}>Clear text</CellButton>
-                        </FormLayout>
-                    </Group>
-
 	</Panel>
 );
 
