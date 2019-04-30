@@ -23,12 +23,10 @@ const Home = ({ id, go, fetchedUser }) => (
 			</Div>
 		</Group>
 
-                    <Group title="СООБЩЕНИЕ В БЕСЕДУ">
+                    <Group>
                         <FormLayout>
-                            <Input top="id"
-                                   defaultValue={fetchedUser ? fetchedUser.first_name + ' ' + fetchedUser.last_name : ''}/>
-                            <Textarea top="Messagw"/>
-                            <Button size="xl">SEND</Button>
+                            <Input type="text" top="Your text"  value={this.state.text} onChange={this.changeText}/>
+                            <CellButton level="danger" onClick={this.clearText}>Clear text</CellButton>
                         </FormLayout>
                     </Group>
 
