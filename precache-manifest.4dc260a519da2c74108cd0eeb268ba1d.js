@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "4648bb9205c0e5f395df",
+    "revision": "701bf7868f38c0bd59dd",
     "url": "/wendypendy/static/css/main.d895fae4.chunk.css"
   },
   {
-    "revision": "4648bb9205c0e5f395df",
-    "url": "/wendypendy/static/js/main.4648bb92.chunk.js"
+    "revision": "701bf7868f38c0bd59dd",
+    "url": "/wendypendy/static/js/main.701bf786.chunk.js"
   },
   {
     "revision": "e515a3bfe173a8fe41d3",
@@ -20,11 +20,11 @@ self.__precacheManifest = [
     "url": "/wendypendy/static/js/2.e7fa6bb9.chunk.js"
   },
   {
-    "revision": "4e1ec8403d903dc514271d7328fbdeb3",
-    "url": "/wendypendy/static/media/persik.4e1ec840.png"
+    "revision": "6d2522bd48bd172a7fa63d2d168c2299",
+    "url": "/wendypendy/static/media/persik.6d2522bd.png"
   },
   {
-    "revision": "db317d223f3d0b2496bd14ed40236576",
+    "revision": "2e34c1193b106bea8333cd10ac4b9a3b",
     "url": "/wendypendy/index.html"
   }
 ];
